@@ -12,7 +12,7 @@ import SwiftUI
 struct BackView : View {
     var body: some View {
         ZStack {
-            Color.blue
+            Color.white
         }
     }
 }
